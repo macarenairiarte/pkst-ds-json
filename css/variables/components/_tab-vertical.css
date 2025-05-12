@@ -1,0 +1,18 @@
+:root {
+  --pkst-tab-vertical-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-vertical-pr: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-vertical-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-vertical-pl: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-vertical-gap: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-tab-vertical-default-text: var(--pkst-text-black, #23242e);
+  --pkst-tab-vertical-default-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-tab-vertical-default-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-tab-vertical-selected-text: var(--pkst-link-dark, #e0005a);
+  --pkst-tab-vertical-selected-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-tab-vertical-selected-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-tab-vertical-selected-border-color: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-tab-vertical-selected-border-width: var(--pkst-border-width-md, 0.25rem);
+  --pkst-tab-vertical-hover-text: var(--pkst-link-dark, #e0005a);
+  --pkst-tab-vertical-hover-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-tab-vertical-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+}

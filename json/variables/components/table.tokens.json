@@ -1,0 +1,24 @@
+{
+    "header": {
+        "bg": {
+            "value": "{bg.gray-100}"
+        },
+        "padding": {
+            "value": "{spacing.sm}"
+        }
+    },
+    "body": {
+        "bg": {
+            "value": "{bg.white}"
+        },
+        "line-color": {
+            "value": "{border.color.grey-300}"
+        },
+        "padding": {
+            "value": "{spacing.sm}"
+        },
+        "line-width": {
+            "value": "{border.width.xs}"
+        }
+    }
+}

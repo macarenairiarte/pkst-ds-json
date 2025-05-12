@@ -1,0 +1,89 @@
+{
+    "color": {
+        "pink": {
+            "value": "{color.pink.primary}"
+        },
+        "pink-light": {
+            "value": "{color.pink.light-300}"
+        },
+        "pink-dark-500": {
+            "value": "{color.pink.dark-500}"
+        },
+        "pink-dark-600": {
+            "value": "{color.pink.dark-600}"
+        },
+        "black": {
+            "value": "{color.neutral.black}"
+        },
+        "white": {
+            "value": "{color.neutral.white}"
+        },
+        "grey-200": {
+            "value": "{color.neutral.gray-200}"
+        },
+        "grey-300": {
+            "value": "{color.neutral.gray-300}"
+        },
+        "grey-800": {
+            "value": "{color.neutral.gray-800}"
+        },
+        "information": {
+            "value": "{color.semantic.blue}"
+        },
+        "success": {
+            "value": "{color.semantic.green}"
+        },
+        "warning": {
+            "value": "{color.semantic.yellow}"
+        },
+        "error": {
+            "value": "{color.semantic.red}"
+        },
+        "disabled": {
+            "value": "{color.neutral.gray-600}"
+        }
+    },
+    "width": {
+        "none": {
+            "value": 0
+        },
+        "xs": {
+            "value": "{size.1}"
+        },
+        "sm": {
+            "value": "{size.2}"
+        },
+        "md": {
+            "value": "{size.4}"
+        },
+        "lg": {
+            "value": "{size.8}"
+        }
+    },
+    "radius": {
+        "none": {
+            "value": 0
+        },
+        "3xs": {
+            "value": "{size.2}"
+        },
+        "2xs": {
+            "value": "{size.4}"
+        },
+        "xs": {
+            "value": "{size.8}"
+        },
+        "sm": {
+            "value": "{size.12}"
+        },
+        "md": {
+            "value": "{size.16}"
+        },
+        "lg": {
+            "value": "{size.24}"
+        },
+        "xl": {
+            "value": "{size.32}"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+:root {
+  --pkst-streaming-header-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-streaming-header-pr: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-streaming-header-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-streaming-header-pl: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-streaming-header-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-streaming-header-gap-logo: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-streaming-header-gap-buttons: var(--pkst-spacing-lg, 1.5rem);
+}

@@ -1,0 +1,20 @@
+:root {
+  --pkst-right-menu-bar-pt: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-right-menu-bar-pr: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-right-menu-bar-pb: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-right-menu-bar-pl: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-right-menu-bar-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-right-menu-bar-border: var(--pkst-border-color-grey-300, #d8dae4);
+  --pkst-right-menu-bar-border-right: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-right-menu-box-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-right-menu-box-header-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-header-pr: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-header-pl: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-content-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-content-empty-pt: var(--pkst-spacing-3xl, 4rem);
+  --pkst-right-menu-box-footer-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-footer-pr: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-footer-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-right-menu-box-footer-pl: var(--pkst-spacing-md, 1rem);
+}

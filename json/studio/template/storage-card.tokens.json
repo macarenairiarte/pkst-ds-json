@@ -1,0 +1,37 @@
+{
+    "bg": {
+        "value": "{bg.gray-100}"
+    },
+    "padding": {
+        "value": "{spacing.md}"
+    },
+    "gap": {
+        "value": "{spacing.3xs}"
+    },
+    "title-gap": {
+        "value": "{spacing.4xs}"
+    },
+    "border-radius": {
+        "value": "{border.radius.xs}"
+    },
+    "bar": {
+        "bg": {
+            "value": "{bg.gray-200}"
+        },
+        "border-color": {
+            "value": "{bg.gray-300}"
+        },
+        "progress-color": {
+            "value": "{bg.pink-dark-500}"
+        },
+        "border-width": {
+            "value": "{border.width.xs}"
+        },
+        "height": {
+            "value": "{spacing.2xs}"
+        },
+        "boder-radius": {
+            "value": "{border.radius.2xs}"
+        }
+    }
+}

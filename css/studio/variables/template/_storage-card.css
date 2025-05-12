@@ -1,0 +1,13 @@
+:root {
+  --pkst-storage-card-bg: var(--pkst-bg-gray-100, #f8f9fc);
+  --pkst-storage-card-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-storage-card-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-storage-card-title-gap: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-storage-card-border-radius: var(--pkst-border-radius-xs, 0.5rem);
+  --pkst-storage-card-bar-bg: var(--pkst-bg-gray-200, #f1f3fa);
+  --pkst-storage-card-bar-border-color: var(--pkst-bg-gray-300, #d8dae4);
+  --pkst-storage-card-bar-progress-color: var(--pkst-bg-pink-dark-500, #e0005a);
+  --pkst-storage-card-bar-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-storage-card-bar-height: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-storage-card-bar-boder-radius: var(--pkst-border-radius-2xs, 0.25rem);
+}

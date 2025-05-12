@@ -1,0 +1,25 @@
+:root {
+  --pkst-menu-item-pt: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-menu-item-pl: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-menu-item-pb: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-menu-item-pr: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-menu-item-gap: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-menu-item-border-radius: var(--pkst-border-radius-3xs, 0.125rem);
+  --pkst-menu-item-default-text: var(--pkst-text-black, #23242e);
+  --pkst-menu-item-default-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-menu-item-default-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-menu-item-hover-text: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-menu-item-hover-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-menu-item-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-menu-list-pt: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-pr: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-pb: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-pl: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-section-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-item-gap: var(--pkst-spacing-none, 0);
+  --pkst-menu-list-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-menu-list-separator-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-menu-list-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-menu-list-separator: var(--pkst-border-color-grey-200, #f1f3fa);
+  --pkst-menu-list-separator-width: var(--pkst-border-width-xs, 0.0625rem);
+}

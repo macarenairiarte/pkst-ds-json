@@ -1,0 +1,58 @@
+{
+    "pt": {
+        "value": "{spacing.md}"
+    },
+    "pr": {
+        "value": "{spacing.lg}"
+    },
+    "pb": {
+        "value": "{spacing.md}"
+    },
+    "default": {
+        "text": {
+            "value": "{link.dark}"
+        },
+        "bg": {
+            "value": "{bg.white}"
+        },
+        "border-color": {
+            "value": "{border.color.grey-200}"
+        },
+        "border-width": {
+            "value": "{border.width.sm}"
+        }
+    },
+    "pl": {
+        "value": "{spacing.lg}"
+    },
+    "hover": {
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        }
+    },
+    "selected": {
+        "text": {
+            "value": "{text.black}"
+        },
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        },
+        "border-color": {
+            "value": "{border.color.pink-dark-500}"
+        },
+        "border-width": {
+            "value": "{border.width.md}"
+        }
+    },
+    "group": {
+        "bg": {
+            "value": "{bg.white}"
+        },
+        "border-color": {
+            "value": "{border.color.grey-200}"
+        },
+        "border-width": {
+            "value": "{border.width.sm}"
+        }
+    }
+}

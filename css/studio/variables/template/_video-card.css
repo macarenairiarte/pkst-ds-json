@@ -1,0 +1,8 @@
+:root {
+  --pkst-video-card-info-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-video-card-info-gap: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-video-card-border-radius: var(--pkst-border-radius-xs, 0.5rem);
+  --pkst-video-card-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-video-card-thumb-icon: var(--pkst-icon-color-white, #ffffff);
+  --pkst-video-card-thumb-hover: var(--pkst-bg-overlay-40, rgba(35, 36, 46, 0.4000));
+}

@@ -1,0 +1,171 @@
+{
+    "pink": {
+        "primary": {
+            "value": "#ff0068"
+        },
+        "secondary": {
+            "value": "#f00060"
+        },
+        "dark-600": {
+            "value": "#b8004a"
+        },
+        "dark-500": {
+            "value": "#e0005a"
+        },
+        "light-600": {
+            "value": "#ff4782"
+        },
+        "light-500": {
+            "value": "#ff6697"
+        },
+        "light-400": {
+            "value": "#ff82aa"
+        },
+        "light-300": {
+            "value": "#ffc2d3"
+        },
+        "light-200": {
+            "value": "#ffe1ea"
+        },
+        "light-100": {
+            "value": "#fff5f8"
+        }
+    },
+    "neutral": {
+        "black": {
+            "value": "#23242e"
+        },
+        "gray-900": {
+            "value": "#383a4a"
+        },
+        "gray-800": {
+            "value": "#5a5c6b"
+        },
+        "gray-700": {
+            "value": "#9394a1"
+        },
+        "gray-600": {
+            "value": "#979aa8"
+        },
+        "gray-500": {
+            "value": "#bfc1c9"
+        },
+        "gray-400": {
+            "value": "#d7d8de"
+        },
+        "gray-300": {
+            "value": "#d8dae4"
+        },
+        "gray-200": {
+            "value": "#f1f3fa"
+        },
+        "gray-100": {
+            "value": "#f8f9fc"
+        },
+        "white": {
+            "value": "#ffffff"
+        }
+    },
+    "semantic": {
+        "blue": {
+            "value": "#00aeef"
+        },
+        "blue-light": {
+            "value": "#edfaff"
+        },
+        "green": {
+            "value": "#468726"
+        },
+        "green-light": {
+            "value": "#f3faef"
+        },
+        "yellow": {
+            "value": "#ffc60b"
+        },
+        "yellow-light": {
+            "value": "#fffae9"
+        },
+        "red": {
+            "value": "#db0000"
+        },
+        "red-light": {
+            "value": "#ffeded"
+        }
+    },
+    "black": {
+        "10": {
+            "value": "rgba(35, 36, 46, 0.1000)"
+        },
+        "20": {
+            "value": "rgba(35, 36, 46, 0.2000)"
+        },
+        "30": {
+            "value": "rgba(35, 36, 46, 0.3000)"
+        },
+        "40": {
+            "value": "rgba(35, 36, 46, 0.4000)"
+        },
+        "50": {
+            "value": "rgba(35, 36, 46, 0.5000)"
+        },
+        "60": {
+            "value": "rgba(35, 36, 46, 0.6000)"
+        },
+        "70": {
+            "value": "rgba(35, 36, 46, 0.7000)"
+        },
+        "80": {
+            "value": "rgba(35, 36, 46, 0.8000)"
+        },
+        "90": {
+            "value": "rgba(35, 36, 46, 0.9000)"
+        }
+    },
+    "social": {
+        "facebook": {
+            "value": "#1977f3"
+        },
+        "twitter": {
+            "value": "#1d9bf0"
+        },
+        "x": {
+            "value": "#000000"
+        },
+        "youtube": {
+            "value": "#ff0000"
+        },
+        "twitch": {
+            "value": "#9145ff"
+        },
+        "rtmp": {
+            "value": "#ff0068"
+        },
+        "google-red": {
+            "value": "#ea4335"
+        },
+        "google-yellow": {
+            "value": "#fbbc05"
+        },
+        "google-blue": {
+            "value": "#4285f4"
+        },
+        "google-green": {
+            "value": "#34a853"
+        },
+        "figma-orange-dark": {
+            "value": "#f24e1e"
+        },
+        "figma-orange-light": {
+            "value": "#ff7262"
+        },
+        "figma-violet": {
+            "value": "#a259ff"
+        },
+        "figma-light-blue": {
+            "value": "#1abcfe"
+        },
+        "figma-green": {
+            "value": "#0acf83"
+        }
+    }
+}

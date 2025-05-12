@@ -1,0 +1,11 @@
+{
+    "white": {
+        "value": "{color.neutral.white}"
+    },
+    "black": {
+        "value": "{color.neutral.black}"
+    },
+    "circle": {
+        "value": "{color.pink.primary}"
+    }
+}

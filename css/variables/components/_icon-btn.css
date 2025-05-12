@@ -1,0 +1,17 @@
+:root {
+  --pkst-icon-btn-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-icon-btn-hover-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-icon-btn-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-icon-btn-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-icon-btn-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-icon-btn-disabled-icon: var(--pkst-icon-color-disabled, #979aa8);
+  --pkst-icon-btn-disabled-bg: var(--pkst-bg-disabled, #d8dae4);
+  --pkst-icon-btn-xs-icon-size: var(--pkst-icon-size-sm, 1rem);
+  --pkst-icon-btn-xs-padding: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-icon-btn-sm-icon-size: var(--pkst-icon-size-md, 1.25rem);
+  --pkst-icon-btn-sm-padding: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-icon-btn-md-icon-size: var(--pkst-icon-size-lg, 1.5rem);
+  --pkst-icon-btn-md-padding: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-icon-btn-lg-icon-size: var(--pkst-icon-size-lg, 1.5rem);
+  --pkst-icon-btn-lg-padding: var(--pkst-spacing-2xs, 0.5rem);
+}

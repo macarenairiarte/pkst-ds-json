@@ -1,0 +1,5 @@
+:root {
+  --pkst-logo-white: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-logo-black: var(--pkst-color-neutral-black, #23242e);
+  --pkst-logo-circle: var(--pkst-color-pink-primary, #ff0068);
+}

@@ -1,0 +1,106 @@
+{
+    "placeholder": {
+        "value": "{text.disabled}"
+    },
+    "text": {
+        "value": "{text.black}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "border-color": {
+        "value": "{border.color.black}"
+    },
+    "border-width": {
+        "value": "{border.width.xs}"
+    },
+    "sm": {
+        "pt": {
+            "value": "{spacing.xs}"
+        },
+        "pr": {
+            "value": "{spacing.md}"
+        },
+        "pb": {
+            "value": "{spacing.xs}"
+        },
+        "pl": {
+            "value": "{spacing.md}"
+        },
+        "border-radius": {
+            "value": "{border.radius.lg}"
+        }
+    },
+    "md": {
+        "pt": {
+            "value": "{spacing.xs}"
+        },
+        "pr": {
+            "value": "{spacing.md}"
+        },
+        "pb": {
+            "value": "{spacing.xs}"
+        },
+        "pl": {
+            "value": "{spacing.md}"
+        },
+        "border-radius": {
+            "value": "{border.radius.lg}"
+        }
+    },
+    "hover": {
+        "bg": {
+            "value": "{bg.gray-100}"
+        },
+        "border": {
+            "value": "{border.color.pink-dark-500}"
+        }
+    },
+    "focus": {
+        "border": {
+            "value": "{border.color.pink-dark-500}"
+        },
+        "outline-color": {
+            "value": "{border.color.pink-dark-500}"
+        },
+        "outline-width": {
+            "value": "{border.width.sm}"
+        }
+    },
+    "error": {
+        "text": {
+            "value": "{text.error}"
+        },
+        "icon": {
+            "value": "{icon.color.error}"
+        },
+        "border": {
+            "value": "{border.color.error}"
+        }
+    },
+    "disabled": {
+        "text": {
+            "value": "{text.disabled}"
+        },
+        "icon": {
+            "value": "{icon.color.disabled}"
+        },
+        "bg": {
+            "value": "{bg.gray-100}"
+        },
+        "border": {
+            "value": "{border.color.disabled}"
+        }
+    },
+    "btn": {
+        "pr-icon": {
+            "value": "{spacing.2xl}"
+        },
+        "icon-right": {
+            "value": "{spacing.md}"
+        },
+        "icon": {
+            "value": "{border.color.black}"
+        }
+    }
+}

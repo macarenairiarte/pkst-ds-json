@@ -1,0 +1,29 @@
+:root {
+  --pkst-pricing-card-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-pricing-card-free: var(--pkst-bg-gray-300, #d8dae4);
+  --pkst-pricing-card-basic: #ffc2d3;
+  --pkst-pricing-card-professional: var(--pkst-bg-pink-dark-500, #e0005a);
+  --pkst-pricing-card-border-radius: var(--pkst-border-radius-xs, 0.5rem);
+  --pkst-pricing-card-border-top: var(--pkst-border-width-lg, 0.5rem);
+  --pkst-pricing-card-text: var(--pkst-text-black, #23242e);
+  --pkst-pricing-card-banner-bg: var(--pkst-bg-pink-dark-500, #e0005a);
+  --pkst-pricing-card-banner-text: var(--pkst-text-white, #ffffff);
+  --pkst-pricing-card-banner-ptb: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-pricing-card-banner-plr: var(--pkst-spacing-xs, 0.625rem);
+  --pkst-pricing-card-price: var(--pkst-link-dark, #e0005a);
+  --pkst-pricing-card-header-pt: var(--pkst-spacing-xl, 2rem);
+  --pkst-pricing-card-header-pr: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-header-pb: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-header-pl: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-header-gap: var(--pkst-spacing-md, 1rem);
+  --pkst-pricing-card-header-title-gap: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-pricing-card-header-price-gap: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-pricing-card-header-border-color: var(--pkst-border-color-grey-300, #d8dae4);
+  --pkst-pricing-card-header-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-pricing-card-content-pt: var(--pkst-spacing-xl, 2rem);
+  --pkst-pricing-card-content-pr: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-content-pb: var(--pkst-spacing-xl, 2rem);
+  --pkst-pricing-card-content-pl: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-content-gap: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-pricing-card-content-content-gap: var(--pkst-spacing-3xs, 0.25rem);
+}

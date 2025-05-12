@@ -1,0 +1,18 @@
+:root {
+  --pkst-tab-horizontal-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-horizontal-pr: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-tab-horizontal-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-tab-horizontal-default-text: var(--pkst-link-dark, #e0005a);
+  --pkst-tab-horizontal-default-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-tab-horizontal-default-border-color: var(--pkst-border-color-grey-200, #f1f3fa);
+  --pkst-tab-horizontal-default-border-width: var(--pkst-border-width-sm, 0.125rem);
+  --pkst-tab-horizontal-pl: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-tab-horizontal-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-tab-horizontal-selected-text: var(--pkst-text-black, #23242e);
+  --pkst-tab-horizontal-selected-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-tab-horizontal-selected-border-color: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-tab-horizontal-selected-border-width: var(--pkst-border-width-md, 0.25rem);
+  --pkst-tab-horizontal-group-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-tab-horizontal-group-border-color: var(--pkst-border-color-grey-200, #f1f3fa);
+  --pkst-tab-horizontal-group-border-width: var(--pkst-border-width-sm, 0.125rem);
+}

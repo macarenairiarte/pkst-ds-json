@@ -1,0 +1,12 @@
+:root {
+  --pkst-illustration-color-border: var(--pkst-color-neutral-black, #23242e);
+  --pkst-illustration-color-acent: var(--pkst-color-pink-primary, #ff0068);
+  --pkst-illustration-color-bg: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-illustration-color-bg-secondary: var(--pkst-color-neutral-gray-200, #f1f3fa);
+  --pkst-illustration-size-sm: var(--pkst-size-24, 1.5rem);
+  --pkst-illustration-size-md: var(--pkst-size-32, 2rem);
+  --pkst-illustration-size-lg: var(--pkst-size-48, 3rem);
+  --pkst-illustration-size-xl: var(--pkst-size-64, 4rem);
+  --pkst-illustration-size-2xl: var(--pkst-size-96, 6rem);
+  --pkst-illustration-size-3xl: var(--pkst-size-160, 10rem);
+}

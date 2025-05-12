@@ -1,0 +1,16 @@
+:root {
+  --pkst-chat-bubble-gap: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-chat-chat-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-chat-bubble-pt: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-chat-bubble-pr: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-chat-bubble-pb: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-chat-bubble-pl: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-chat-bubble-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-chat-bubble-name-gap: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-chat-bubble-name-pr: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-chat-bubble-name-pb: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-chat-bubble-text: var(--pkst-text-black, #23242e);
+  --pkst-chat-bubble-name: var(--pkst-text-gray, #5a5c6b);
+  --pkst-chat-bubble-admin: var(--pkst-bg-pink-light-200, #ffe1ea);
+  --pkst-chat-bubble-guest: var(--pkst-bg-gray-200, #f1f3fa);
+}

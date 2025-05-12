@@ -1,0 +1,8 @@
+{
+    "color": {
+        "value": "{bg.overlay-10}"
+    },
+    "width": {
+        "value": "{spacing.3xs}"
+    }
+}

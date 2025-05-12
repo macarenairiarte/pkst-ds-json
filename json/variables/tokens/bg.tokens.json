@@ -1,0 +1,71 @@
+{
+    "white": {
+        "value": "{color.neutral.white}"
+    },
+    "black": {
+        "value": "{color.neutral.black}"
+    },
+    "gray-100": {
+        "value": "{color.neutral.gray-100}"
+    },
+    "gray-200": {
+        "value": "{color.neutral.gray-200}"
+    },
+    "gray-300": {
+        "value": "{color.neutral.gray-300}"
+    },
+    "gray-dark-800": {
+        "value": "{color.neutral.gray-800}"
+    },
+    "gray-dark-900": {
+        "value": "{color.neutral.gray-900}"
+    },
+    "pink": {
+        "value": "{color.pink.primary}"
+    },
+    "pink-dark-500": {
+        "value": "{color.pink.dark-500}"
+    },
+    "pink-dark-600": {
+        "value": "{color.pink.dark-600}"
+    },
+    "pink-light-100": {
+        "value": "{color.pink.light-100}"
+    },
+    "pink-light-200": {
+        "value": "{color.pink.light-200}"
+    },
+    "pink-light-300": {
+        "value": "{color.pink.light-300}"
+    },
+    "pink-light-600": {
+        "value": "{color.pink.light-600}"
+    },
+    "overlay-10": {
+        "value": "{color.black.10}"
+    },
+    "overlay-40": {
+        "value": "{color.black.40}"
+    },
+    "overlay-70": {
+        "value": "{color.black.70}"
+    },
+    "overlay-80": {
+        "value": "{color.black.80}"
+    },
+    "disabled": {
+        "value": "{color.neutral.gray-300}"
+    },
+    "information": {
+        "value": "{color.semantic.blue-light}"
+    },
+    "success": {
+        "value": "{color.semantic.green-light}"
+    },
+    "warning": {
+        "value": "{color.semantic.yellow-light}"
+    },
+    "error": {
+        "value": "{color.semantic.red-light}"
+    }
+}

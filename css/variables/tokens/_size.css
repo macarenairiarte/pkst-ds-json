@@ -1,0 +1,11 @@
+:root {
+  --pkst-size-xs: var(--pkst-size-4, 0.25rem);
+  --pkst-size-sm: var(--pkst-size-8, 0.5rem);
+  --pkst-size-md: var(--pkst-size-16, 1rem);
+  --pkst-size-lg: var(--pkst-size-24, 1.5rem);
+  --pkst-size-xl: var(--pkst-size-32, 2rem);
+  --pkst-size-2xl: var(--pkst-size-44, 2.75rem);
+  --pkst-size-3xl: var(--pkst-size-48, 3rem);
+  --pkst-size-4xl: var(--pkst-size-64, 4rem);
+  --pkst-size-5xl: var(--pkst-size-96, 6rem);
+}

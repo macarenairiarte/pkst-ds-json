@@ -1,0 +1,18 @@
+:root {
+  --pkst-font-size-xs: var(--pkst-size-12, 0.75rem);
+  --pkst-font-size-sm: var(--pkst-size-14, 0.875rem);
+  --pkst-font-size-md: var(--pkst-size-16, 1rem);
+  --pkst-font-size-lg: var(--pkst-size-18, 1.125rem);
+  --pkst-font-size-xl: var(--pkst-size-20, 1.25rem);
+  --pkst-font-size-2xl: var(--pkst-size-24, 1.5rem);
+  --pkst-font-size-3xl: var(--pkst-size-32, 2rem);
+  --pkst-font-size-4xl: var(--pkst-size-48, 3rem);
+  --pkst-font-line-height-sm: var(--pkst-size-12, 0.75rem);
+  --pkst-font-line-height-md: var(--pkst-size-16, 1rem);
+  --pkst-font-line-height-lg: var(--pkst-size-20, 1.25rem);
+  --pkst-font-line-height-xl: var(--pkst-size-24, 1.5rem);
+  --pkst-font-line-height-2xl: var(--pkst-size-28, 1.75rem);
+  --pkst-font-line-height-3xl: var(--pkst-size-32, 2rem);
+  --pkst-font-line-height-4xl: var(--pkst-size-40, 2.5rem);
+  --pkst-font-line-height-5xl: var(--pkst-size-56, 3.5rem);
+}

@@ -1,0 +1,8 @@
+:root {
+  --pkst-tag-pd-tb-md: var(--pkst-spacing-xs, 0.625rem);
+  --pkst-tag-pd-rl-md: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-tag-pd-sm: var(--pkst-spacing-xs, 0.625rem);
+  --pkst-tag-border-radius: var(--pkst-border-radius-xs, 0.5rem);
+  --pkst-tag-text: var(--pkst-text-white, #ffffff);
+  --pkst-tag-bg: var(--pkst-bg-black, #23242e);
+}

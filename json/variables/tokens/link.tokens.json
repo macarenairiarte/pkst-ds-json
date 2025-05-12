@@ -1,0 +1,11 @@
+{
+    "dark": {
+        "value": "{color.pink.dark-500}"
+    },
+    "light": {
+        "value": "{color.pink.light-600}"
+    },
+    "hover": {
+        "value": "{color.pink.dark-600}"
+    }
+}

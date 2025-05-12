@@ -1,0 +1,11 @@
+{
+    "xs": {
+        "value": "{size.4}"
+    },
+    "sm": {
+        "value": "{size.8}"
+    },
+    "md": {
+        "value": "{size.12}"
+    }
+}

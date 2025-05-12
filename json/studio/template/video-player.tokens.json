@@ -1,0 +1,67 @@
+{
+    "overlay": {
+        "value": "{bg.overlay-80}"
+    },
+    "border-radius": {
+        "value": "{border.radius.sm}"
+    },
+    "play": {
+        "bg": {
+            "value": "{bg.pink-dark-500}"
+        },
+        "hover": {
+            "value": "{bg.pink-dark-600}"
+        },
+        "icon": {
+            "value": "{icon.color.white}"
+        },
+        "padding": {
+            "value": "{spacing.md}"
+        },
+        "border-radius": {
+            "value": "{border.radius.xl}"
+        }
+    },
+    "close": {
+        "icon": {
+            "value": "{icon.color.black}"
+        },
+        "bg": {
+            "value": "{bg.white}"
+        },
+        "bg-hover": {
+            "value": "{bg.pink-light-200}"
+        },
+        "border-radius": {
+            "value": "{border.radius.2xs}"
+        }
+    },
+    "actions": {
+        "icon": {
+            "value": "{icon.color.white}"
+        },
+        "text": {
+            "value": "{text.white}"
+        },
+        "bg": {
+            "value": "{bg.overlay-40}"
+        }
+    },
+    "gap": {
+        "value": "{spacing.md}"
+    },
+    "padding": {
+        "value": "{spacing.md}"
+    },
+    "line": {
+        "bg": {
+            "value": "{bg.gray-100}"
+        },
+        "time": {
+            "value": "{bg.pink}"
+        },
+        "circle": {
+            "value": "{bg.pink-dark-500}"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "none": {
+        "value": 0
+    },
+    "4xs": {
+        "value": "{size.2}"
+    },
+    "3xs": {
+        "value": "{size.4}"
+    },
+    "2xs": {
+        "value": "{size.8}"
+    },
+    "xs": {
+        "value": "{size.10}"
+    },
+    "sm": {
+        "value": "{size.12}"
+    },
+    "md": {
+        "value": "{size.16}"
+    },
+    "lg": {
+        "value": "{size.24}"
+    },
+    "xl": {
+        "value": "{size.32}"
+    },
+    "2xl": {
+        "value": "{size.48}"
+    },
+    "3xl": {
+        "value": "{size.64}"
+    },
+    "4xl": {
+        "value": "{size.96}"
+    },
+    "5xl": {
+        "value": "{size.160}"
+    }
+}

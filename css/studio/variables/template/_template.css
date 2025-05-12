@@ -1,0 +1,15 @@
+:root {
+  --pkst-template-app: var(--pkst-bg-gray-100, #f8f9fc);
+  --pkst-template-streaming: var(--pkst-bg-gray-100, #f8f9fc);
+  --pkst-template-header-pt: var(--pkst-spacing-md, 1rem);
+  --pkst-template-header-pr: var(--pkst-spacing-xl, 2rem);
+  --pkst-template-header-pb: var(--pkst-spacing-md, 1rem);
+  --pkst-template-header-pl: var(--pkst-spacing-xl, 2rem);
+  --pkst-template-header-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-template-nav-gap: var(--pkst-spacing-md, 1rem);
+  --pkst-template-nav-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-template-nav-logo-margin: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-template-nav-pb: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-template-shadow-color: var(--pkst-shadow-color, rgba(35, 36, 46, 0.1000));
+  --pkst-template-shadow-width: var(--pkst-spacing-3xs, 0.25rem);
+}

@@ -1,0 +1,45 @@
+{
+    "overlay": {
+        "value": "{bg.overlay-80}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "border-radius": {
+        "value": "{border.radius.xs}"
+    },
+    "shadow-color": {
+        "value": "{bg.overlay-10}"
+    },
+    "shadow-width": {
+        "value": "{spacing.3xs}"
+    },
+    "header": {
+        "padding-tb": {
+            "value": "{spacing.lg}"
+        },
+        "padding-rl": {
+            "value": "{spacing.lg}"
+        },
+        "line-width": {
+            "value": "{border.width.xs}"
+        },
+        "line-color": {
+            "value": "{border.color.grey-300}"
+        }
+    },
+    "content": {
+        "padding": {
+            "value": "{spacing.xl}"
+        },
+        "container-gap": {
+            "value": "{spacing.lg}"
+        },
+        "content-gap": {
+            "value": "{spacing.md}"
+        },
+        "btn-gap": {
+            "value": "{spacing.sm}"
+        }
+    }
+}

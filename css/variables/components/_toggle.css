@@ -1,0 +1,18 @@
+:root {
+  --pkst-toggle-enable-off-bg: var(--pkst-bg-gray-300, #d8dae4);
+  --pkst-toggle-enable-off-circle: var(--pkst-bg-white, #ffffff);
+  --pkst-toggle-enable-off-border: var(--pkst-border-color-disabled, #979aa8);
+  --pkst-toggle-enable-off-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-toggle-enable-on-bg: var(--pkst-bg-pink-dark-500, #e0005a);
+  --pkst-toggle-enable-on-circle: var(--pkst-bg-white, #ffffff);
+  --pkst-toggle-enable-on-border: var(--pkst-border-color-pink-dark-600, #b8004a);
+  --pkst-toggle-enable-on-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-toggle-disabled-off-bg: var(--pkst-bg-gray-200, #f1f3fa);
+  --pkst-toggle-disabled-off-circle: var(--pkst-bg-white, #ffffff);
+  --pkst-toggle-disabled-off-border: var(--pkst-border-color-grey-300, #d8dae4);
+  --pkst-toggle-disabled-off-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-toggle-disabled-on-bg: var(--pkst-bg-pink-light-300, #ffc2d3);
+  --pkst-toggle-disabled-on-circle: var(--pkst-bg-white, #ffffff);
+  --pkst-toggle-disabled-on-border: var(--pkst-border-color-pink-light, #ffc2d3);
+  --pkst-toggle-disabled-on-border-width: var(--pkst-border-width-xs, 0.0625rem);
+}

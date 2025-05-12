@@ -1,0 +1,33 @@
+{
+    "gap": {
+        "value": "{spacing.4xs}"
+    },
+    "border-radius": {
+        "value": "{border.width.sm}"
+    },
+    "padding-tb": {
+        "value": "{spacing.3xs}"
+    },
+    "padding-rl": {
+        "value": "{spacing.4xs}"
+    },
+    "default": {
+        "link": {
+            "value": "{link.dark}"
+        },
+        "icon": {
+            "value": "{icon.color.action}"
+        }
+    },
+    "hover": {
+        "link": {
+            "value": "{link.hover}"
+        },
+        "icon": {
+            "value": "{icon.color.hover}"
+        },
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+:root {
+  --pkst-shadow-color: var(--pkst-bg-overlay-10, rgba(35, 36, 46, 0.1000));
+  --pkst-shadow-width: var(--pkst-spacing-3xs, 0.25rem);
+}

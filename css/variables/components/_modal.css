@@ -1,0 +1,15 @@
+:root {
+  --pkst-modal-overlay: var(--pkst-bg-overlay-80, rgba(35, 36, 46, 0.8000));
+  --pkst-modal-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-modal-border-radius: var(--pkst-border-radius-xs, 0.5rem);
+  --pkst-modal-shadow-color: var(--pkst-bg-overlay-10, rgba(35, 36, 46, 0.1000));
+  --pkst-modal-shadow-width: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-modal-header-padding-tb: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-modal-header-padding-rl: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-modal-header-line-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-modal-header-line-color: var(--pkst-border-color-grey-300, #d8dae4);
+  --pkst-modal-content-padding: var(--pkst-spacing-xl, 2rem);
+  --pkst-modal-content-container-gap: var(--pkst-spacing-lg, 1.5rem);
+  --pkst-modal-content-content-gap: var(--pkst-spacing-md, 1rem);
+  --pkst-modal-content-btn-gap: var(--pkst-spacing-sm, 0.75rem);
+}

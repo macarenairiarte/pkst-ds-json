@@ -1,0 +1,26 @@
+:root {
+  --pkst-source-box-padding: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-source-box-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-source-box-border-width: var(--pkst-border-width-sm, 0.125rem);
+  --pkst-source-box-border-color: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-source-box-bg: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-source-box-header-padding-tb: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-source-box-header-padding-rl: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-source-box-header-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-source-box-header-text: var(--pkst-text-black, #23242e);
+  --pkst-source-box-header-action: var(--pkst-icon-color-black, #23242e);
+  --pkst-source-box-header-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-source-box-content-bg: var(--pkst-bg-gray-dark-900, #383a4a);
+  --pkst-source-box-footer-padding: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-source-box-footer-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-source-box-footer-default-text: var(--pkst-link-dark, #e0005a);
+  --pkst-source-box-footer-default-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-source-box-footer-selected-text: var(--pkst-text-white, #ffffff);
+  --pkst-source-box-footer-selected-icon: var(--pkst-icon-color-white, #ffffff);
+  --pkst-source-box-action-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-source-box-action-border-radius: var(--pkst-border-radius-3xs, 0.125rem);
+  --pkst-source-box-selected-border: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-source-box-selected-bg: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-source-box-hover-border: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-source-box-hover-bg: var(--pkst-border-color-pink-dark-500, #e0005a);
+}

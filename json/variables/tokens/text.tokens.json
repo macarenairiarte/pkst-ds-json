@@ -1,0 +1,29 @@
+{
+    "black": {
+        "value": "{color.neutral.black}"
+    },
+    "white": {
+        "value": "{color.neutral.white}"
+    },
+    "gray": {
+        "value": "{color.neutral.gray-800}"
+    },
+    "disabled": {
+        "value": "{color.neutral.gray-600}"
+    },
+    "required": {
+        "value": "{color.semantic.red}"
+    },
+    "information": {
+        "value": "{color.semantic.blue}"
+    },
+    "success": {
+        "value": "{color.semantic.green}"
+    },
+    "warning": {
+        "value": "{color.semantic.yellow}"
+    },
+    "error": {
+        "value": "{color.semantic.red}"
+    }
+}

@@ -1,0 +1,18 @@
+:root {
+  --pkst-destination-card-disconnected-bg: var(--pkst-bg-warning, #fffae9);
+  --pkst-destination-card-disconnected-text: var(--pkst-text-black, #23242e);
+  --pkst-destination-card-disconnected-pt: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-destination-card-disconnected-pr: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-destination-card-disconnected-pb: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-destination-card-disconnected-pl: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-destination-card-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-destination-card-gap: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-destination-card-gap-img-name: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-destination-card-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-destination-card-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-destination-card-border-color: var(--pkst-border-color-grey-200, #f1f3fa);
+  --pkst-destination-card-icon-bg: var(--pkst-icon-color-white, #ffffff);
+  --pkst-destination-card-icon-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-destination-card-icon-border-radius-icon: var(--pkst-border-radius-3xs, 0.125rem);
+  --pkst-destination-card-icon-border-radius-photo: var(--pkst-border-radius-xl, 2rem);
+}

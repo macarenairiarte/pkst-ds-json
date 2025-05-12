@@ -1,0 +1,8 @@
+:root {
+  --pkst-table-header-bg: var(--pkst-bg-gray-100, #f8f9fc);
+  --pkst-table-header-padding: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-table-body-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-table-body-line-color: var(--pkst-border-color-grey-300, #d8dae4);
+  --pkst-table-body-padding: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-table-body-line-width: var(--pkst-border-width-xs, 0.0625rem);
+}

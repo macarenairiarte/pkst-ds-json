@@ -1,0 +1,29 @@
+:root {
+  --pkst-border-color-pink: var(--pkst-color-pink-primary, #ff0068);
+  --pkst-border-color-pink-light: var(--pkst-color-pink-light-300, #ffc2d3);
+  --pkst-border-color-pink-dark-500: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-border-color-pink-dark-600: var(--pkst-color-pink-dark-600, #b8004a);
+  --pkst-border-color-black: var(--pkst-color-neutral-black, #23242e);
+  --pkst-border-color-white: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-border-color-grey-200: var(--pkst-color-neutral-gray-200, #f1f3fa);
+  --pkst-border-color-grey-300: var(--pkst-color-neutral-gray-300, #d8dae4);
+  --pkst-border-color-grey-800: var(--pkst-color-neutral-gray-800, #5a5c6b);
+  --pkst-border-color-information: var(--pkst-color-semantic-blue, #00aeef);
+  --pkst-border-color-success: var(--pkst-color-semantic-green, #468726);
+  --pkst-border-color-warning: var(--pkst-color-semantic-yellow, #ffc60b);
+  --pkst-border-color-error: var(--pkst-color-semantic-red, #db0000);
+  --pkst-border-color-disabled: var(--pkst-color-neutral-gray-600, #979aa8);
+  --pkst-border-width-none: 0;
+  --pkst-border-width-xs: var(--pkst-size-1, 0.0625rem);
+  --pkst-border-width-sm: var(--pkst-size-2, 0.125rem);
+  --pkst-border-width-md: var(--pkst-size-4, 0.25rem);
+  --pkst-border-width-lg: var(--pkst-size-8, 0.5rem);
+  --pkst-border-radius-none: 0;
+  --pkst-border-radius-3xs: var(--pkst-size-2, 0.125rem);
+  --pkst-border-radius-2xs: var(--pkst-size-4, 0.25rem);
+  --pkst-border-radius-xs: var(--pkst-size-8, 0.5rem);
+  --pkst-border-radius-sm: var(--pkst-size-12, 0.75rem);
+  --pkst-border-radius-md: var(--pkst-size-16, 1rem);
+  --pkst-border-radius-lg: var(--pkst-size-24, 1.5rem);
+  --pkst-border-radius-xl: var(--pkst-size-32, 2rem);
+}

@@ -1,0 +1,11 @@
+:root {
+  --pkst-text-black: var(--pkst-color-neutral-black, #23242e);
+  --pkst-text-white: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-text-gray: var(--pkst-color-neutral-gray-800, #5a5c6b);
+  --pkst-text-disabled: var(--pkst-color-neutral-gray-600, #979aa8);
+  --pkst-text-required: var(--pkst-color-semantic-red, #db0000);
+  --pkst-text-information: var(--pkst-color-semantic-blue, #00aeef);
+  --pkst-text-success: var(--pkst-color-semantic-green, #468726);
+  --pkst-text-warning: var(--pkst-color-semantic-yellow, #ffc60b);
+  --pkst-text-error: var(--pkst-color-semantic-red, #db0000);
+}

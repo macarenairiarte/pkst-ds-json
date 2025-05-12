@@ -1,0 +1,5 @@
+:root {
+  --pkst-grid-xs: var(--pkst-size-4, 0.25rem);
+  --pkst-grid-sm: var(--pkst-size-8, 0.5rem);
+  --pkst-grid-md: var(--pkst-size-12, 0.75rem);
+}

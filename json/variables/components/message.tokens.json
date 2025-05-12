@@ -1,0 +1,98 @@
+{
+    "info": {
+        "text": {
+            "value": "{icon.color.information}"
+        },
+        "icon": {
+            "value": "{icon.color.information}"
+        },
+        "border": {
+            "value": "{border.color.information}"
+        },
+        "bg": {
+            "value": "{bg.information}"
+        }
+    },
+    "success": {
+        "text": {
+            "value": "{text.success}"
+        },
+        "icon": {
+            "value": "{icon.color.success}"
+        },
+        "border": {
+            "value": "{border.color.success}"
+        },
+        "bg": {
+            "value": "{bg.success}"
+        }
+    },
+    "warning": {
+        "text": {
+            "value": "{text.warning}"
+        },
+        "icon": {
+            "value": "{icon.color.warning}"
+        },
+        "border": {
+            "value": "{border.color.warning}"
+        },
+        "bg": {
+            "value": "{bg.warning}"
+        }
+    },
+    "error": {
+        "text": {
+            "value": "{text.error}"
+        },
+        "icon": {
+            "value": "{icon.color.error}"
+        },
+        "border": {
+            "value": "{border.color.error}"
+        },
+        "bg": {
+            "value": "{bg.error}"
+        }
+    },
+    "inline": {
+        "pl": {
+            "value": "{spacing.md}"
+        },
+        "gap": {
+            "value": "{spacing.3xs}"
+        },
+        "icon-size": {
+            "value": "{icon.size.sm}"
+        }
+    },
+    "box": {
+        "text": {
+            "value": "{text.black}"
+        },
+        "pt": {
+            "value": "{spacing.md}"
+        },
+        "pr": {
+            "value": "{spacing.md}"
+        },
+        "pb": {
+            "value": "{spacing.md}"
+        },
+        "pl": {
+            "value": "{spacing.md}"
+        },
+        "gap": {
+            "value": "{spacing.2xs}"
+        },
+        "border-width": {
+            "value": "{border.width.xs}"
+        },
+        "border-radius": {
+            "value": "{border.radius.sm}"
+        },
+        "icon-size": {
+            "value": "{icon.size.lg}"
+        }
+    }
+}

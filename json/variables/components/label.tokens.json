@@ -1,0 +1,8 @@
+{
+    "text": {
+        "value": "{text.black}"
+    },
+    "required": {
+        "value": "{text.required}"
+    }
+}

@@ -1,0 +1,4 @@
+:root {
+  --pkst-label-text: var(--pkst-text-black, #23242e);
+  --pkst-label-required: var(--pkst-text-required, #db0000);
+}

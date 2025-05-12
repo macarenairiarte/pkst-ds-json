@@ -1,0 +1,51 @@
+{
+    "border-radius": {
+        "value": "{border.radius.2xs}"
+    },
+    "padding": {
+        "value": "{spacing.xs}"
+    },
+    "on": {
+        "bg": {
+            "value": "{bg.gray-200}"
+        },
+        "icon": {
+            "value": "{icon.color.black}"
+        }
+    },
+    "hover": {
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        },
+        "icon": {
+            "value": "{icon.color.action}"
+        }
+    },
+    "off": {
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        },
+        "icon": {
+            "value": "{icon.color.black}"
+        }
+    },
+    "selected": {
+        "bg": {
+            "value": "{bg.pink-light-100}"
+        },
+        "icon": {
+            "value": "{icon.color.action}"
+        },
+        "border-color": {
+            "value": "{border.color.pink-dark-500}"
+        },
+        "border-width": {
+            "value": "{border.width.xs}"
+        }
+    },
+    "group": {
+        "gap": {
+            "value": "{spacing.sm}"
+        }
+    }
+}

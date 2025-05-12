@@ -1,0 +1,46 @@
+{
+    "bubble-gap": {
+        "value": "{spacing.sm}"
+    },
+    "chat-padding": {
+        "value": "{spacing.md}"
+    },
+    "bubble": {
+        "pt": {
+            "value": "{spacing.2xs}"
+        },
+        "pr": {
+            "value": "{spacing.sm}"
+        },
+        "pb": {
+            "value": "{spacing.2xs}"
+        },
+        "pl": {
+            "value": "{spacing.sm}"
+        },
+        "border-radius": {
+            "value": "{border.radius.2xs}"
+        },
+        "name-gap": {
+            "value": "{spacing.4xs}"
+        },
+        "name-pr": {
+            "value": "{spacing.2xs}"
+        },
+        "name-pb": {
+            "value": "{spacing.4xs}"
+        },
+        "text": {
+            "value": "{text.black}"
+        },
+        "name": {
+            "value": "{text.gray}"
+        },
+        "admin": {
+            "value": "{bg.pink-light-200}"
+        },
+        "guest": {
+            "value": "{bg.gray-200}"
+        }
+    }
+}

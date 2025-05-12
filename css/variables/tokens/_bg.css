@@ -1,0 +1,25 @@
+:root {
+  --pkst-bg-white: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-bg-black: var(--pkst-color-neutral-black, #23242e);
+  --pkst-bg-gray-100: var(--pkst-color-neutral-gray-100, #f8f9fc);
+  --pkst-bg-gray-200: var(--pkst-color-neutral-gray-200, #f1f3fa);
+  --pkst-bg-gray-300: var(--pkst-color-neutral-gray-300, #d8dae4);
+  --pkst-bg-gray-dark-800: var(--pkst-color-neutral-gray-800, #5a5c6b);
+  --pkst-bg-gray-dark-900: var(--pkst-color-neutral-gray-900, #383a4a);
+  --pkst-bg-pink: var(--pkst-color-pink-primary, #ff0068);
+  --pkst-bg-pink-dark-500: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-bg-pink-dark-600: var(--pkst-color-pink-dark-600, #b8004a);
+  --pkst-bg-pink-light-100: var(--pkst-color-pink-light-100, #fff5f8);
+  --pkst-bg-pink-light-200: var(--pkst-color-pink-light-200, #ffe1ea);
+  --pkst-bg-pink-light-300: var(--pkst-color-pink-light-300, #ffc2d3);
+  --pkst-bg-pink-light-600: var(--pkst-color-pink-light-600, #ff4782);
+  --pkst-bg-overlay-10: var(--pkst-color-black-10, rgba(35, 36, 46, 0.1000));
+  --pkst-bg-overlay-40: var(--pkst-color-black-40, rgba(35, 36, 46, 0.4000));
+  --pkst-bg-overlay-70: var(--pkst-color-black-70, rgba(35, 36, 46, 0.7000));
+  --pkst-bg-overlay-80: var(--pkst-color-black-80, rgba(35, 36, 46, 0.8000));
+  --pkst-bg-disabled: var(--pkst-color-neutral-gray-300, #d8dae4);
+  --pkst-bg-information: var(--pkst-color-semantic-blue-light, #edfaff);
+  --pkst-bg-success: var(--pkst-color-semantic-green-light, #f3faef);
+  --pkst-bg-warning: var(--pkst-color-semantic-yellow-light, #fffae9);
+  --pkst-bg-error: var(--pkst-color-semantic-red-light, #ffeded);
+}

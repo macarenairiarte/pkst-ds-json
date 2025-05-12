@@ -1,0 +1,23 @@
+{
+    "pt": {
+        "value": "{spacing.md}"
+    },
+    "pr": {
+        "value": "{spacing.lg}"
+    },
+    "pb": {
+        "value": "{spacing.md}"
+    },
+    "pl": {
+        "value": "{spacing.lg}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "gap-logo": {
+        "value": "{spacing.2xs}"
+    },
+    "gap-buttons": {
+        "value": "{spacing.lg}"
+    }
+}

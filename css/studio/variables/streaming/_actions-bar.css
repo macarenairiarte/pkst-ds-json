@@ -1,0 +1,4 @@
+:root {
+  --pkst-actions-bar-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-actions-bar-padding: var(--pkst-spacing-sm, 0.75rem);
+}

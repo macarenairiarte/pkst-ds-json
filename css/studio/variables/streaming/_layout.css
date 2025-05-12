@@ -1,0 +1,15 @@
+:root {
+  --pkst-layout-border-out: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-layout-border-in: var(--pkst-border-radius-3xs, 0.125rem);
+  --pkst-layout-group-gap: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-layout-icon-unselected-border: var(--pkst-border-color-grey-800, #5a5c6b);
+  --pkst-layout-icon-unselected-bg: var(--pkst-bg-gray-200, #f1f3fa);
+  --pkst-layout-icon-selected-border: var(--pkst-border-color-pink, #ff0068);
+  --pkst-layout-icon-selected-bg: var(--pkst-bg-pink-light-200, #ffe1ea);
+  --pkst-layout-template-micro-bg: var(--pkst-color-black-50, rgba(35, 36, 46, 0.5000));
+  --pkst-layout-template-micro-micro: var(--pkst-icon-color-white, #ffffff);
+  --pkst-layout-template-micro-border-radius: var(--pkst-border-radius-md, 1rem);
+  --pkst-layout-template-small-bg: var(--pkst-bg-gray-dark-800, #5a5c6b);
+  --pkst-layout-template-small-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-layout-template-all-sizes-bg: var(--pkst-bg-gray-dark-900, #383a4a);
+}

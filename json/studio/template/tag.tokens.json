@@ -1,0 +1,20 @@
+{
+    "pd-tb-md": {
+        "value": "{spacing.xs}"
+    },
+    "pd-rl-md": {
+        "value": "{spacing.sm}"
+    },
+    "pd-sm": {
+        "value": "{spacing.xs}"
+    },
+    "border-radius": {
+        "value": "{border.radius.xs}"
+    },
+    "text": {
+        "value": "{text.white}"
+    },
+    "bg": {
+        "value": "{bg.black}"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info-padding": {
+        "value": "{spacing.md}"
+    },
+    "info-gap": {
+        "value": "{spacing.2xs}"
+    },
+    "border-radius": {
+        "value": "{border.radius.xs}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "thumb": {
+        "icon": {
+            "value": "{icon.color.white}"
+        },
+        "hover": {
+            "value": "{bg.overlay-40}"
+        }
+    }
+}

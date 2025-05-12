@@ -1,0 +1,16 @@
+:root {
+  --pkst-icon-color-black: var(--pkst-color-neutral-black, #23242e);
+  --pkst-icon-color-white: var(--pkst-color-neutral-white, #ffffff);
+  --pkst-icon-color-disabled: var(--pkst-color-neutral-gray-600, #979aa8);
+  --pkst-icon-color-acent: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-icon-color-action: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-icon-color-hover: var(--pkst-color-pink-dark-600, #b8004a);
+  --pkst-icon-color-information: var(--pkst-color-semantic-blue, #00aeef);
+  --pkst-icon-color-success: var(--pkst-color-semantic-green, #468726);
+  --pkst-icon-color-warning: var(--pkst-color-semantic-yellow, #ffc60b);
+  --pkst-icon-color-error: var(--pkst-color-semantic-red, #db0000);
+  --pkst-icon-size-sm: var(--pkst-size-16, 1rem);
+  --pkst-icon-size-md: var(--pkst-size-20, 1.25rem);
+  --pkst-icon-size-lg: var(--pkst-size-24, 1.5rem);
+  --pkst-icon-size-xl: var(--pkst-size-32, 2rem);
+}

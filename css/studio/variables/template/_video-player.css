@@ -1,0 +1,21 @@
+:root {
+  --pkst-video-player-overlay: var(--pkst-bg-overlay-80, rgba(35, 36, 46, 0.8000));
+  --pkst-video-player-border-radius: var(--pkst-border-radius-sm, 0.75rem);
+  --pkst-video-player-play-bg: var(--pkst-bg-pink-dark-500, #e0005a);
+  --pkst-video-player-play-hover: var(--pkst-bg-pink-dark-600, #b8004a);
+  --pkst-video-player-play-icon: var(--pkst-icon-color-white, #ffffff);
+  --pkst-video-player-play-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-video-player-play-border-radius: var(--pkst-border-radius-xl, 2rem);
+  --pkst-video-player-close-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-video-player-close-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-video-player-close-bg-hover: var(--pkst-bg-pink-light-200, #ffe1ea);
+  --pkst-video-player-close-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-video-player-actions-icon: var(--pkst-icon-color-white, #ffffff);
+  --pkst-video-player-actions-text: var(--pkst-text-white, #ffffff);
+  --pkst-video-player-actions-bg: var(--pkst-bg-overlay-40, rgba(35, 36, 46, 0.4000));
+  --pkst-video-player-gap: var(--pkst-spacing-md, 1rem);
+  --pkst-video-player-padding: var(--pkst-spacing-md, 1rem);
+  --pkst-video-player-line-bg: var(--pkst-bg-gray-100, #f8f9fc);
+  --pkst-video-player-line-time: var(--pkst-bg-pink, #ff0068);
+  --pkst-video-player-line-circle: var(--pkst-bg-pink-dark-500, #e0005a);
+}

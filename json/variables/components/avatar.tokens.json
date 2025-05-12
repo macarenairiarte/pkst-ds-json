@@ -1,0 +1,27 @@
+{
+    "color": {
+        "icon": {
+            "value": "{icon.color.white}"
+        },
+        "bg": {
+            "value": "{bg.pink-light-600}"
+        }
+    },
+    "size": {
+        "sm": {
+            "value": "{size.lg}"
+        },
+        "md": {
+            "value": "{size.xl}"
+        },
+        "lg": {
+            "value": "{size.3xl}"
+        },
+        "xl": {
+            "value": "{size.4xl}"
+        },
+        "2xl": {
+            "value": "{size.5xl}"
+        }
+    }
+}

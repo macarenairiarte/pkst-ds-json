@@ -1,0 +1,9 @@
+:root {
+  --pkst-avatar-color-icon: var(--pkst-icon-color-white, #ffffff);
+  --pkst-avatar-color-bg: var(--pkst-bg-pink-light-600, #ff4782);
+  --pkst-avatar-size-sm: var(--pkst-size-lg, 1.5rem);
+  --pkst-avatar-size-md: var(--pkst-size-xl, 2rem);
+  --pkst-avatar-size-lg: var(--pkst-size-3xl, 3rem);
+  --pkst-avatar-size-xl: var(--pkst-size-4xl, 4rem);
+  --pkst-avatar-size-2xl: var(--pkst-size-5xl, 6rem);
+}

@@ -1,0 +1,36 @@
+{
+    "color": {
+        "border": {
+            "value": "{color.neutral.black}"
+        },
+        "acent": {
+            "value": "{color.pink.primary}"
+        },
+        "bg": {
+            "value": "{color.neutral.white}"
+        },
+        "bg-secondary": {
+            "value": "{color.neutral.gray-200}"
+        }
+    },
+    "size": {
+        "sm": {
+            "value": "{size.24}"
+        },
+        "md": {
+            "value": "{size.32}"
+        },
+        "lg": {
+            "value": "{size.48}"
+        },
+        "xl": {
+            "value": "{size.64}"
+        },
+        "2xl": {
+            "value": "{size.96}"
+        },
+        "3xl": {
+            "value": "{size.160}"
+        }
+    }
+}

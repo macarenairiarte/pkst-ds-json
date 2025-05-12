@@ -1,0 +1,8 @@
+{
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "padding": {
+        "value": "{spacing.sm}"
+    }
+}

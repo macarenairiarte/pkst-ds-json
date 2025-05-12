@@ -1,0 +1,89 @@
+{
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "free": {
+        "value": "{bg.gray-300}"
+    },
+    "basic": {
+        "value": "#ffc2d3"
+    },
+    "professional": {
+        "value": "{bg.pink-dark-500}"
+    },
+    "border-radius": {
+        "value": "{border.radius.xs}"
+    },
+    "border-top": {
+        "value": "{border.width.lg}"
+    },
+    "text": {
+        "value": "{text.black}"
+    },
+    "banner": {
+        "bg": {
+            "value": "{bg.pink-dark-500}"
+        },
+        "text": {
+            "value": "{text.white}"
+        },
+        "ptb": {
+            "value": "{spacing.sm}"
+        },
+        "plr": {
+            "value": "{spacing.xs}"
+        }
+    },
+    "price": {
+        "value": "{link.dark}"
+    },
+    "header": {
+        "pt": {
+            "value": "{spacing.xl}"
+        },
+        "pr": {
+            "value": "{spacing.lg}"
+        },
+        "pb": {
+            "value": "{spacing.lg}"
+        },
+        "pl": {
+            "value": "{spacing.lg}"
+        },
+        "gap": {
+            "value": "{spacing.md}"
+        },
+        "title-gap": {
+            "value": "{spacing.4xs}"
+        },
+        "price-gap": {
+            "value": "{spacing.2xs}"
+        },
+        "border-color": {
+            "value": "{border.color.grey-300}"
+        },
+        "border-width": {
+            "value": "{border.width.xs}"
+        }
+    },
+    "content": {
+        "pt": {
+            "value": "{spacing.xl}"
+        },
+        "pr": {
+            "value": "{spacing.lg}"
+        },
+        "pb": {
+            "value": "{spacing.xl}"
+        },
+        "pl": {
+            "value": "{spacing.lg}"
+        },
+        "gap": {
+            "value": "{spacing.lg}"
+        },
+        "content-gap": {
+            "value": "{spacing.3xs}"
+        }
+    }
+}

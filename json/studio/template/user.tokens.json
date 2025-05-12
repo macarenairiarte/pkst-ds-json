@@ -1,0 +1,38 @@
+{
+    "pt": {
+        "value": "{spacing.sm}"
+    },
+    "pr": {
+        "value": "{spacing.sm}"
+    },
+    "pb": {
+        "value": "{spacing.sm}"
+    },
+    "pl": {
+        "value": "{spacing.sm}"
+    },
+    "gap-img-name": {
+        "value": "{spacing.2xs}"
+    },
+    "gap": {
+        "value": "{spacing.3xs}"
+    },
+    "border-radius": {
+        "value": "{border.radius.2xs}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "bg-hover": {
+        "value": "{bg.pink-light-100}"
+    },
+    "bg-expanded": {
+        "value": "{bg.pink-light-100}"
+    },
+    "border-color": {
+        "value": "{border.color.pink-dark-500}"
+    },
+    "border-width": {
+        "value": "{border.width.xs}"
+    }
+}

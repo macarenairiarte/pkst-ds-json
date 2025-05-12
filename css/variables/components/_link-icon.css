@@ -1,0 +1,11 @@
+:root {
+  --pkst-link-icon-gap: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-link-icon-border-radius: var(--pkst-border-width-sm, 0.125rem);
+  --pkst-link-icon-padding-tb: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-link-icon-padding-rl: var(--pkst-spacing-4xs, 0.125rem);
+  --pkst-link-icon-default-link: var(--pkst-link-dark, #e0005a);
+  --pkst-link-icon-default-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-link-icon-hover-link: var(--pkst-link-hover, #b8004a);
+  --pkst-link-icon-hover-icon: var(--pkst-icon-color-hover, #b8004a);
+  --pkst-link-icon-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+}

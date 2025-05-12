@@ -1,0 +1,14 @@
+:root {
+  --pkst-user-pt: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-user-pr: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-user-pb: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-user-pl: var(--pkst-spacing-sm, 0.75rem);
+  --pkst-user-gap-img-name: var(--pkst-spacing-2xs, 0.5rem);
+  --pkst-user-gap: var(--pkst-spacing-3xs, 0.25rem);
+  --pkst-user-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-user-bg: var(--pkst-bg-white, #ffffff);
+  --pkst-user-bg-hover: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-user-bg-expanded: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-user-border-color: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-user-border-width: var(--pkst-border-width-xs, 0.0625rem);
+}

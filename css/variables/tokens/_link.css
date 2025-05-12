@@ -1,0 +1,5 @@
+:root {
+  --pkst-link-dark: var(--pkst-color-pink-dark-500, #e0005a);
+  --pkst-link-light: var(--pkst-color-pink-light-600, #ff4782);
+  --pkst-link-hover: var(--pkst-color-pink-dark-600, #b8004a);
+}

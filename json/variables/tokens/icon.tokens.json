@@ -1,0 +1,48 @@
+{
+    "color": {
+        "black": {
+            "value": "{color.neutral.black}"
+        },
+        "white": {
+            "value": "{color.neutral.white}"
+        },
+        "disabled": {
+            "value": "{color.neutral.gray-600}"
+        },
+        "acent": {
+            "value": "{color.pink.dark-500}"
+        },
+        "action": {
+            "value": "{color.pink.dark-500}"
+        },
+        "hover": {
+            "value": "{color.pink.dark-600}"
+        },
+        "information": {
+            "value": "{color.semantic.blue}"
+        },
+        "success": {
+            "value": "{color.semantic.green}"
+        },
+        "warning": {
+            "value": "{color.semantic.yellow}"
+        },
+        "error": {
+            "value": "{color.semantic.red}"
+        }
+    },
+    "size": {
+        "sm": {
+            "value": "{size.16}"
+        },
+        "md": {
+            "value": "{size.20}"
+        },
+        "lg": {
+            "value": "{size.24}"
+        },
+        "xl": {
+            "value": "{size.32}"
+        }
+    }
+}

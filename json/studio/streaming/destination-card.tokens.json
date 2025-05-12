@@ -1,0 +1,54 @@
+{
+    "disconnected": {
+        "bg": {
+            "value": "{bg.warning}"
+        },
+        "text": {
+            "value": "{text.black}"
+        },
+        "pt": {
+            "value": "{spacing.2xs}"
+        },
+        "pr": {
+            "value": "{spacing.sm}"
+        },
+        "pb": {
+            "value": "{spacing.2xs}"
+        },
+        "pl": {
+            "value": "{spacing.sm}"
+        }
+    },
+    "padding": {
+        "value": "{spacing.md}"
+    },
+    "gap": {
+        "value": "{spacing.2xs}"
+    },
+    "gap-img-name": {
+        "value": "{spacing.2xs}"
+    },
+    "bg": {
+        "value": "{bg.white}"
+    },
+    "border-width": {
+        "value": "{border.width.xs}"
+    },
+    "border-color": {
+        "value": "{border.color.grey-200}"
+    },
+    "icon": {
+        "bg": {
+            "value": "{icon.color.white}"
+        },
+        "border-width": {
+            "value": "{border.width.xs}"
+        },
+        "border-radius-icon": {
+            "value": "{border.radius.3xs}"
+        },
+        "border-radius-photo": {
+            "value": "{border.radius.xl}"
+        }
+    }
+}

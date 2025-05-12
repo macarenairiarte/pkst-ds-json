@@ -1,0 +1,47 @@
+{
+    "app": {
+        "value": "{bg.gray-100}"
+    },
+    "streaming": {
+        "value": "{bg.gray-100}"
+    },
+    "header": {
+        "pt": {
+            "value": "{spacing.md}"
+        },
+        "pr": {
+            "value": "{spacing.xl}"
+        },
+        "pb": {
+            "value": "{spacing.md}"
+        },
+        "pl": {
+            "value": "{spacing.xl}"
+        },
+        "bg": {
+            "value": "{bg.white}"
+        }
+    },
+    "nav": {
+        "gap": {
+            "value": "{spacing.md}"
+        },
+        "bg": {
+            "value": "{bg.white}"
+        },
+        "logo-margin": {
+            "value": "{spacing.lg}"
+        },
+        "pb": {
+            "value": "{spacing.lg}"
+        }
+    },
+    "shadow": {
+        "color": {
+            "value": "{shadow.color}"
+        },
+        "width": {
+            "value": "{spacing.3xs}"
+        }
+    }
+}

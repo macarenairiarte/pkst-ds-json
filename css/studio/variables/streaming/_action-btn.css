@@ -1,0 +1,15 @@
+:root {
+  --pkst-action-btn-border-radius: var(--pkst-border-radius-2xs, 0.25rem);
+  --pkst-action-btn-padding: var(--pkst-spacing-xs, 0.625rem);
+  --pkst-action-btn-on-bg: var(--pkst-bg-gray-200, #f1f3fa);
+  --pkst-action-btn-on-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-action-btn-hover-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-action-btn-hover-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-action-btn-off-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-action-btn-off-icon: var(--pkst-icon-color-black, #23242e);
+  --pkst-action-btn-selected-bg: var(--pkst-bg-pink-light-100, #fff5f8);
+  --pkst-action-btn-selected-icon: var(--pkst-icon-color-action, #e0005a);
+  --pkst-action-btn-selected-border-color: var(--pkst-border-color-pink-dark-500, #e0005a);
+  --pkst-action-btn-selected-border-width: var(--pkst-border-width-xs, 0.0625rem);
+  --pkst-action-btn-group-gap: var(--pkst-spacing-sm, 0.75rem);
+}

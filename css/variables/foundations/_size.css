@@ -1,0 +1,22 @@
+:root {
+  --pkst-size-1: 0.0625rem;
+  --pkst-size-2: 0.125rem;
+  --pkst-size-4: 0.25rem;
+  --pkst-size-8: 0.5rem;
+  --pkst-size-10: 0.625rem;
+  --pkst-size-12: 0.75rem;
+  --pkst-size-14: 0.875rem;
+  --pkst-size-16: 1rem;
+  --pkst-size-18: 1.125rem;
+  --pkst-size-20: 1.25rem;
+  --pkst-size-24: 1.5rem;
+  --pkst-size-28: 1.75rem;
+  --pkst-size-32: 2rem;
+  --pkst-size-40: 2.5rem;
+  --pkst-size-44: 2.75rem;
+  --pkst-size-48: 3rem;
+  --pkst-size-56: 3.5rem;
+  --pkst-size-64: 4rem;
+  --pkst-size-96: 6rem;
+  --pkst-size-160: 10rem;
+}
